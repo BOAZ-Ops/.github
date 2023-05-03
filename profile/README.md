@@ -1,4 +1,5 @@
-<h1 align='center'>:computer: MLOps :computer:</h1>
+![header](https://capsule-render.vercel.app/api?type=Waving&height=300&section=header&fontColor=FFFFFF&text=💻MLOps💻&fontSize=90&animation=fadeIn&color=0:b4e5f5,100:0404B4)
+
 <h3 align='center'>:elephant: <a href="https://github.com/BOAZ-bigdata">BOAZ</a> 소모임 :elephant:</h3>
 
 ---
@@ -33,9 +34,9 @@ MLOps의 핵심 목표는 머신 러닝 모델의 생산성을 높이고, 모델
 
 <h3 align='center'>🙏 더 궁금하다면 아래 글들을 참고해주세요 🙏</h3>
 
-+ [카카오페이: 모델 서빙 최적화를 위한 프레임워크 선정과 서빙 성능 극대화하기](https://tech.kakaopay.com/post/model-serving-framework/)
-+ [쏘카: 딥러닝 모델 Serving 간단 구축기](https://tech.socarcorp.kr/data/2020/03/10/ml-model-serving.html)
-+ [그냥 굴러다니는 기술 블로그](https://zerohertz.github.io/mlops-for-mle-stream/)
+- [카카오페이: 모델 서빙 최적화를 위한 프레임워크 선정과 서빙 성능 극대화하기](https://tech.kakaopay.com/post/model-serving-framework/)
+- [쏘카: 딥러닝 모델 Serving 간단 구축기](https://tech.socarcorp.kr/data/2020/03/10/ml-model-serving.html)
+- [그냥 굴러다니는 기술 블로그](https://zerohertz.github.io/mlops-for-mle-stream/)
 
 ---
 
