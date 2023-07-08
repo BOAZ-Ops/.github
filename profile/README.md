@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align='center'>👍 MLOps의 효능 👍</h3>
+<h3 align='center'>❓ MLOps란 ❓</h3>
 
 MLOps는 Machine Learning Operations의 줄임말로, 머신 러닝 모델의 개발과 운영 사이의 통합을 다루는 방법론 및 프로세스입니다. MLOps는 소프트웨어 개발 생명주기에서의 DevOps와 유사한 개념으로, 머신 러닝 모델 개발과 배포 및 운영을 효율적이고 안정적으로 수행하기 위한 일련의 절차와 도구를 포괄합니다.
 
