@@ -1,4 +1,7 @@
+<h1 align='center'>
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=300&section=header&fontColor=FFFFFF&text=💻MLOps💻&fontSize=90&animation=fadeIn&color=0:b4e5f5,100:0404B4)
+</h1>
 
 <h3 align='center'>:elephant: <a href="https://github.com/BOAZ-bigdata">BOAZ</a> 소모임 :elephant:</h3>
 
@@ -28,14 +31,10 @@ MLOps의 핵심 목표는 머신 러닝 모델의 생산성을 높이고, 모델
 1. MLOps가 궁금한 사람
 2. 도커, 쿠버네티스를 조금 배웠는데 어디에 사용하는지 궁금한 사람
 3. 머신러닝/딥러닝 모델 설계보다는 인프라 및 서빙에 관심이 큰 사람
-4. 공부하고싶은 사람 -> ~~이 분은 대학원을..~~
+4. 엔지니어링에 진심인 사람
 
 ---
 
-<h3 align='center'>🙏 더 궁금하다면 아래 글들을 참고해주세요 🙏</h3>
-
-+ [README!](https://github.com/BOAZ-Ops/README/tree/main)
-
----
-
-🚨 신청은 [여기](https://cafe.naver.com/boazbigdata/9091)로!!!!!!!! 🚨
+> 🙏 MLOps에 대해 더 궁금하다면 아래 글을 참고해주세요 🙏
+> 
+> [README!](https://github.com/BOAZ-Ops/README/tree/main)
